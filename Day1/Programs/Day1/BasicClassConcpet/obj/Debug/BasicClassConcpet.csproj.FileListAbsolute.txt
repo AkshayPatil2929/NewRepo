@@ -1,0 +1,7 @@
+G:\Dot Net\Day1\Programs\Day1\BasicClassConcpet\bin\Debug\BasicClassConcpet.exe.config
+G:\Dot Net\Day1\Programs\Day1\BasicClassConcpet\bin\Debug\BasicClassConcpet.exe
+G:\Dot Net\Day1\Programs\Day1\BasicClassConcpet\bin\Debug\BasicClassConcpet.pdb
+G:\Dot Net\Day1\Programs\Day1\BasicClassConcpet\obj\Debug\BasicClassConcpet.csproj.AssemblyReference.cache
+G:\Dot Net\Day1\Programs\Day1\BasicClassConcpet\obj\Debug\BasicClassConcpet.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day1\Programs\Day1\BasicClassConcpet\obj\Debug\BasicClassConcpet.exe
+G:\Dot Net\Day1\Programs\Day1\BasicClassConcpet\obj\Debug\BasicClassConcpet.pdb
