@@ -1,0 +1,7 @@
+G:\Dot Net\Day7\Day7\Exception\bin\Debug\Exception.exe.config
+G:\Dot Net\Day7\Day7\Exception\bin\Debug\Exception.exe
+G:\Dot Net\Day7\Day7\Exception\bin\Debug\Exception.pdb
+G:\Dot Net\Day7\Day7\Exception\obj\Debug\Exception.csproj.AssemblyReference.cache
+G:\Dot Net\Day7\Day7\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day7\Day7\Exception\obj\Debug\Exception.exe
+G:\Dot Net\Day7\Day7\Exception\obj\Debug\Exception.pdb

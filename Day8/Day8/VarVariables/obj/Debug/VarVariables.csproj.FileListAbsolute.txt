@@ -1,0 +1,7 @@
+G:\Dot Net\Day8\Day8\VarVariables\bin\Debug\VarVariables.exe.config
+G:\Dot Net\Day8\Day8\VarVariables\bin\Debug\VarVariables.exe
+G:\Dot Net\Day8\Day8\VarVariables\bin\Debug\VarVariables.pdb
+G:\Dot Net\Day8\Day8\VarVariables\obj\Debug\VarVariables.csproj.AssemblyReference.cache
+G:\Dot Net\Day8\Day8\VarVariables\obj\Debug\VarVariables.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day8\Day8\VarVariables\obj\Debug\VarVariables.exe
+G:\Dot Net\Day8\Day8\VarVariables\obj\Debug\VarVariables.pdb
