@@ -1,0 +1,7 @@
+G:\Dot Net\Day9\Day9\LinqCode\bin\Debug\LinqCode.exe.config
+G:\Dot Net\Day9\Day9\LinqCode\bin\Debug\LinqCode.exe
+G:\Dot Net\Day9\Day9\LinqCode\bin\Debug\LinqCode.pdb
+G:\Dot Net\Day9\Day9\LinqCode\obj\Debug\LinqCode.csproj.AssemblyReference.cache
+G:\Dot Net\Day9\Day9\LinqCode\obj\Debug\LinqCode.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day9\Day9\LinqCode\obj\Debug\LinqCode.exe
+G:\Dot Net\Day9\Day9\LinqCode\obj\Debug\LinqCode.pdb

@@ -1,0 +1,7 @@
+G:\Dot Net\Day10\Day10\TaskDemo\bin\Debug\TaskDemo.exe.config
+G:\Dot Net\Day10\Day10\TaskDemo\bin\Debug\TaskDemo.exe
+G:\Dot Net\Day10\Day10\TaskDemo\bin\Debug\TaskDemo.pdb
+G:\Dot Net\Day10\Day10\TaskDemo\obj\Debug\TaskDemo.csproj.AssemblyReference.cache
+G:\Dot Net\Day10\Day10\TaskDemo\obj\Debug\TaskDemo.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day10\Day10\TaskDemo\obj\Debug\TaskDemo.exe
+G:\Dot Net\Day10\Day10\TaskDemo\obj\Debug\TaskDemo.pdb

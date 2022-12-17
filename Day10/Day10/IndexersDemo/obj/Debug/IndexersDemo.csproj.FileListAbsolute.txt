@@ -1,0 +1,7 @@
+G:\Dot Net\Day10\Day10\IndexersDemo\bin\Debug\IndexersDemo.exe.config
+G:\Dot Net\Day10\Day10\IndexersDemo\bin\Debug\IndexersDemo.exe
+G:\Dot Net\Day10\Day10\IndexersDemo\bin\Debug\IndexersDemo.pdb
+G:\Dot Net\Day10\Day10\IndexersDemo\obj\Debug\IndexersDemo.csproj.AssemblyReference.cache
+G:\Dot Net\Day10\Day10\IndexersDemo\obj\Debug\IndexersDemo.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day10\Day10\IndexersDemo\obj\Debug\IndexersDemo.exe
+G:\Dot Net\Day10\Day10\IndexersDemo\obj\Debug\IndexersDemo.pdb

@@ -1,0 +1,6 @@
+G:\Dot Net\Day10\Day10\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+G:\Dot Net\Day10\Day10\AsyncAwait\bin\Debug\AsyncAwait.exe
+G:\Dot Net\Day10\Day10\AsyncAwait\bin\Debug\AsyncAwait.pdb
+G:\Dot Net\Day10\Day10\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day10\Day10\AsyncAwait\obj\Debug\AsyncAwait.exe
+G:\Dot Net\Day10\Day10\AsyncAwait\obj\Debug\AsyncAwait.pdb

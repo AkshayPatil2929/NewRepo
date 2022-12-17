@@ -1,0 +1,7 @@
+G:\Dot Net\Day10\Day10\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+G:\Dot Net\Day10\Day10\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+G:\Dot Net\Day10\Day10\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+G:\Dot Net\Day10\Day10\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.AssemblyReference.cache
+G:\Dot Net\Day10\Day10\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day10\Day10\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+G:\Dot Net\Day10\Day10\ReflectionDemo\obj\Debug\ReflectionDemo.pdb
