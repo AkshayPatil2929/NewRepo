@@ -1,0 +1,7 @@
+G:\Dot Net\Day11\ConsoleApp1\FileOperations\bin\Debug\FileOperations.exe.config
+G:\Dot Net\Day11\ConsoleApp1\FileOperations\bin\Debug\FileOperations.exe
+G:\Dot Net\Day11\ConsoleApp1\FileOperations\bin\Debug\FileOperations.pdb
+G:\Dot Net\Day11\ConsoleApp1\FileOperations\obj\Debug\FileOperations.csproj.AssemblyReference.cache
+G:\Dot Net\Day11\ConsoleApp1\FileOperations\obj\Debug\FileOperations.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day11\ConsoleApp1\FileOperations\obj\Debug\FileOperations.exe
+G:\Dot Net\Day11\ConsoleApp1\FileOperations\obj\Debug\FileOperations.pdb

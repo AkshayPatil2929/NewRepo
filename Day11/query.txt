@@ -1,0 +1,27 @@
+CREATE TABLE [dbo].Departments
+(
+	[DeptNo] INT NOT NULL PRIMARY KEY, 
+    [DeptName] VARCHAR(50) NOT NULL
+    
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+CREATE TABLE [dbo].Employees
+(
+	[EmpNo] INT NOT NULL PRIMARY KEY, 
+    [Name] VARCHAR(50) NOT NULL, 
+    [Basic] DECIMAL(18, 2) NOT NULL, 
+    [DeptNo] INT NOT NULL, 
+    CONSTRAINT [FK_Employees_Departments] FOREIGN KEY (DeptNo) REFERENCES Departments(DeptNo)
+)
