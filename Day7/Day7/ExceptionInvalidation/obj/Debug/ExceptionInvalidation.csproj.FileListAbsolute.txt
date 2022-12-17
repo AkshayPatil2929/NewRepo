@@ -1,7 +1,0 @@
-G:\Dot Net\Day7\Day7\ExceptionInvalidation\bin\Debug\ExceptionInvalidation.exe.config
-G:\Dot Net\Day7\Day7\ExceptionInvalidation\bin\Debug\ExceptionInvalidation.exe
-G:\Dot Net\Day7\Day7\ExceptionInvalidation\bin\Debug\ExceptionInvalidation.pdb
-G:\Dot Net\Day7\Day7\ExceptionInvalidation\obj\Debug\ExceptionInvalidation.csproj.CoreCompileInputs.cache
-G:\Dot Net\Day7\Day7\ExceptionInvalidation\obj\Debug\ExceptionInvalidation.exe
-G:\Dot Net\Day7\Day7\ExceptionInvalidation\obj\Debug\ExceptionInvalidation.pdb
-G:\Dot Net\Day7\Day7\ExceptionInvalidation\obj\Debug\ExceptionInvalidation.csproj.AssemblyReference.cache

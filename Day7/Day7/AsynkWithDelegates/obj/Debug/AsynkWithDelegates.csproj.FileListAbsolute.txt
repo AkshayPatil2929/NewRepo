@@ -1,7 +1,0 @@
-G:\Dot Net\Day7\Day7\AsynkWithDelegates\bin\Debug\AsynkWithDelegates.exe.config
-G:\Dot Net\Day7\Day7\AsynkWithDelegates\bin\Debug\AsynkWithDelegates.exe
-G:\Dot Net\Day7\Day7\AsynkWithDelegates\bin\Debug\AsynkWithDelegates.pdb
-G:\Dot Net\Day7\Day7\AsynkWithDelegates\obj\Debug\AsynkWithDelegates.csproj.AssemblyReference.cache
-G:\Dot Net\Day7\Day7\AsynkWithDelegates\obj\Debug\AsynkWithDelegates.csproj.CoreCompileInputs.cache
-G:\Dot Net\Day7\Day7\AsynkWithDelegates\obj\Debug\AsynkWithDelegates.exe
-G:\Dot Net\Day7\Day7\AsynkWithDelegates\obj\Debug\AsynkWithDelegates.pdb
