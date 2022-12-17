@@ -1,0 +1,7 @@
+G:\Dot Net\Day9\Day9\MultiThreading\bin\Debug\MultiThreading.exe.config
+G:\Dot Net\Day9\Day9\MultiThreading\bin\Debug\MultiThreading.exe
+G:\Dot Net\Day9\Day9\MultiThreading\bin\Debug\MultiThreading.pdb
+G:\Dot Net\Day9\Day9\MultiThreading\obj\Debug\MultiThreading.csproj.AssemblyReference.cache
+G:\Dot Net\Day9\Day9\MultiThreading\obj\Debug\MultiThreading.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day9\Day9\MultiThreading\obj\Debug\MultiThreading.exe
+G:\Dot Net\Day9\Day9\MultiThreading\obj\Debug\MultiThreading.pdb

@@ -1,0 +1,7 @@
+G:\Dot Net\Day7\Day7\EventHandling\bin\Debug\EventHandling.exe.config
+G:\Dot Net\Day7\Day7\EventHandling\bin\Debug\EventHandling.exe
+G:\Dot Net\Day7\Day7\EventHandling\bin\Debug\EventHandling.pdb
+G:\Dot Net\Day7\Day7\EventHandling\obj\Debug\EventHandling.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day7\Day7\EventHandling\obj\Debug\EventHandling.exe
+G:\Dot Net\Day7\Day7\EventHandling\obj\Debug\EventHandling.pdb
+G:\Dot Net\Day7\Day7\EventHandling\obj\Debug\EventHandling.csproj.AssemblyReference.cache
