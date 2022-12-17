@@ -1,0 +1,7 @@
+G:\Dot Net\Day 2\Constructors AndObjects\Constructors AndObjects\bin\Debug\Constructors AndObjects.exe.config
+G:\Dot Net\Day 2\Constructors AndObjects\Constructors AndObjects\bin\Debug\Constructors AndObjects.exe
+G:\Dot Net\Day 2\Constructors AndObjects\Constructors AndObjects\bin\Debug\Constructors AndObjects.pdb
+G:\Dot Net\Day 2\Constructors AndObjects\Constructors AndObjects\obj\Debug\Constructors AndObjects.csproj.AssemblyReference.cache
+G:\Dot Net\Day 2\Constructors AndObjects\Constructors AndObjects\obj\Debug\Constructors AndObjects.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day 2\Constructors AndObjects\Constructors AndObjects\obj\Debug\Constructors AndObjects.exe
+G:\Dot Net\Day 2\Constructors AndObjects\Constructors AndObjects\obj\Debug\Constructors AndObjects.pdb

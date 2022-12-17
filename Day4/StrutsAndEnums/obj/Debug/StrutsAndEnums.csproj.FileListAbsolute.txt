@@ -1,0 +1,7 @@
+G:\Dot Net\Day4\StrutsAndEnums\bin\Debug\StrutsAndEnums.exe.config
+G:\Dot Net\Day4\StrutsAndEnums\bin\Debug\StrutsAndEnums.exe
+G:\Dot Net\Day4\StrutsAndEnums\bin\Debug\StrutsAndEnums.pdb
+G:\Dot Net\Day4\StrutsAndEnums\obj\Debug\StrutsAndEnums.csproj.AssemblyReference.cache
+G:\Dot Net\Day4\StrutsAndEnums\obj\Debug\StrutsAndEnums.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day4\StrutsAndEnums\obj\Debug\StrutsAndEnums.exe
+G:\Dot Net\Day4\StrutsAndEnums\obj\Debug\StrutsAndEnums.pdb

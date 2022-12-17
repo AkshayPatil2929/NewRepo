@@ -1,0 +1,7 @@
+G:\Dot Net\Day3\Inheritence\bin\Debug\Inheritence.exe.config
+G:\Dot Net\Day3\Inheritence\bin\Debug\Inheritence.exe
+G:\Dot Net\Day3\Inheritence\bin\Debug\Inheritence.pdb
+G:\Dot Net\Day3\Inheritence\obj\Debug\Inheritence.csproj.AssemblyReference.cache
+G:\Dot Net\Day3\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day3\Inheritence\obj\Debug\Inheritence.exe
+G:\Dot Net\Day3\Inheritence\obj\Debug\Inheritence.pdb

@@ -1,0 +1,6 @@
+G:\Dot Net\Day 2\Inheritence\Inheritence\bin\Debug\Inheritence.exe.config
+G:\Dot Net\Day 2\Inheritence\Inheritence\bin\Debug\Inheritence.exe
+G:\Dot Net\Day 2\Inheritence\Inheritence\bin\Debug\Inheritence.pdb
+G:\Dot Net\Day 2\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day 2\Inheritence\Inheritence\obj\Debug\Inheritence.exe
+G:\Dot Net\Day 2\Inheritence\Inheritence\obj\Debug\Inheritence.pdb

@@ -1,0 +1,7 @@
+G:\Dot Net\Day 2\ConstructorInitialisation\ConstructorInitialisation\bin\Debug\ConstructorInitialisation.exe.config
+G:\Dot Net\Day 2\ConstructorInitialisation\ConstructorInitialisation\bin\Debug\ConstructorInitialisation.exe
+G:\Dot Net\Day 2\ConstructorInitialisation\ConstructorInitialisation\bin\Debug\ConstructorInitialisation.pdb
+G:\Dot Net\Day 2\ConstructorInitialisation\ConstructorInitialisation\obj\Debug\ConstructorInitialisation.csproj.AssemblyReference.cache
+G:\Dot Net\Day 2\ConstructorInitialisation\ConstructorInitialisation\obj\Debug\ConstructorInitialisation.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day 2\ConstructorInitialisation\ConstructorInitialisation\obj\Debug\ConstructorInitialisation.exe
+G:\Dot Net\Day 2\ConstructorInitialisation\ConstructorInitialisation\obj\Debug\ConstructorInitialisation.pdb

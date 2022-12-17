@@ -1,0 +1,7 @@
+G:\Dot Net\Day3\AbstractAndInterface\bin\Debug\AbstractAndInterface.exe.config
+G:\Dot Net\Day3\AbstractAndInterface\bin\Debug\AbstractAndInterface.exe
+G:\Dot Net\Day3\AbstractAndInterface\bin\Debug\AbstractAndInterface.pdb
+G:\Dot Net\Day3\AbstractAndInterface\obj\Debug\AbstractAndInterface.csproj.CoreCompileInputs.cache
+G:\Dot Net\Day3\AbstractAndInterface\obj\Debug\AbstractAndInterface.exe
+G:\Dot Net\Day3\AbstractAndInterface\obj\Debug\AbstractAndInterface.pdb
+G:\Dot Net\Day3\AbstractAndInterface\obj\Debug\AbstractAndInterface.csproj.AssemblyReference.cache
